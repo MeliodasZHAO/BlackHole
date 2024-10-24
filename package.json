@@ -1,0 +1,21 @@
+{
+  "name": "my-black-hole-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "noisejs": "^2.1.0",
+    "simplex-noise": "^4.0.3",
+    "three": "^0.169.0",
+    "vue": "^3.2.41"
+  },
+  "devDependencies": {
+    "@types/three": "^0.169.0",
+    "@vitejs/plugin-vue": "^3.1.2",
+    "vite": "^3.1.8"
+  }
+}
